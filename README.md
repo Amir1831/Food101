@@ -20,3 +20,8 @@ To prevent our model to `Overfit`  and to Improve our model `Generalization` , w
 * Build `Feature Extraction` model
 First step in `Transfer learning` is `Feature Extraction` , so first we build our model and train our output layer.
 * Next step is `Fine tuning` , In this step we unfreeze 50 layer and train our model for 12 epochs.
+## Step 3 
+In this step we evaluate our model performance
+* First we plot Train & validation curves to detect possibly overfit
+* In the next step we visualize model prediction on test data
+* And finally we make confusion matrix 
