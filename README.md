@@ -34,4 +34,9 @@ First step in `Transfer learning` is `Feature Extraction` , so first we build ou
 In this step we evaluate our model performance
 * First we plot Train & validation curves to detect possibly overfit
 * In the next step we visualize model prediction on test data
-* And finally we make confusion matrix 
+* And finally we make confusion matrix
+
+This is final result :
+
+  ![image](https://github.com/Amir1831/Food101/assets/75390652/0dbff6d8-56a8-4e25-bdc4-5bd37228ae29)
+
